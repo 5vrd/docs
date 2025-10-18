@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "bender",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#ffffff",
+    "light": "#ffffff",
     "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
